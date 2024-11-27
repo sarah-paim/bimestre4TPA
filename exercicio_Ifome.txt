@@ -1,0 +1,5 @@
+Você está responsável para desenvolver um sistema de pedidos de comida para a empresa IFOOOME.
+neste sistema, devrá ter um menu de escolhas de 
+(lanches ou comida (PF), sobremesas e bebidas. Pode ser 5 opções para cada), usando o switch case.
+Caso tenha terminado o pedido, mostrar para o usuário a opção de saída, por exemplo, "Se terminou seu pedido, digite 0".
+No final envie uma mensagem agradecendo seu cliente.
